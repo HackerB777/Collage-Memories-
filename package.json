@@ -2,7 +2,7 @@
   "name": "College-Memories-",
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://github.com/HackerB777/Collage-Memories",
+  "homepage": "https://github.com/HackerB777/Collage-Memories-",
   "scripts": {
     "dev": "vite",
     "build": "chmod +x node_modules/.bin/vite && vite build"
